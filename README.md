@@ -12,4 +12,4 @@ There are a few additional parts required beyond the basic GSOC kit, which hopef
 4. Breadboard male end jumper wires (at minimum three at least 5" long)
 5. A 10k ohm resistor
 
-Refer to the step by step documentation included within this respository.  A python script (requires module Ada_Fruit_DHT) referenced within the documentation is included with this repository.
+Refer to the step by step documentation included within this respository.  A python script (requires module AdaFruit_DHT) referenced within the documentation is included with this repository.

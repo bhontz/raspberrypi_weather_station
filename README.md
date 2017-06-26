@@ -5,7 +5,7 @@ This Raspberry Pi project can be used to extend the GSOC Raspberry Pi learning k
 
 The basic kit is a fine introduction for showing Girl Scouts how the Raspberry Pi can act as a small computer.  This extension will illustrate how the Raspberry Pi can be used in other ways, in this case as a "sensor reader" and as a web server.
 
-There are a few additional parts required beyond the basic GSOC kit, which hopefully will be available soon with the kits.  They are as follows:
+There are a few additional parts required beyond the basic GSOC kit, which hopefully will be available soon within the kits.  They are as follows:
 1. WiFi Dongle (the Pi 2 Model B included within the GSOC kits does not have WiFi or Bluetooth)
 2. DHT22 temperature and humidity sensor
 3. A breadboard, Raspberry Pi "cobbler" (i.e. breadboard to Raspberry Pi ribbon cable and pin connector)
